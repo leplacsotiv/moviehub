@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ru.ivan.moviehub.MoviesApiTest
+-------------------------------------------------------------------------------
+Tests run: 18, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.325 s -- in ru.ivan.moviehub.MoviesApiTest
