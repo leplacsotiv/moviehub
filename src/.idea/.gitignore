@@ -1,0 +1,17 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Maven
+target/
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
